@@ -1,0 +1,117 @@
+<align="center"><b>Programming</b></align>
+-<indent=5%>Bjooon</indent>
+-<indent=5%>quagsir3</indent>
+-<indent=5%>vincells</indent>
+
+<align="center"><b>Artwork</b></align>
+-<indent=5%>Bjooon</indent>
+-<indent=5%>Beam</indent>
+-<indent=5%>D</indent>
+-<indent=5%>grayfruit</indent>
+-<indent=5%>lotusdom</indent>
+-<indent=5%>MiiK</indent>
+-<indent=5%>Sharkguy</indent>
+-<indent=5%>Tenopiana</indent>
+-<indent=5%>The Culinator</indent>
+-<indent=5%>Todd O.</indent>
+-<indent=5%>Untitled</indent>
+-<indent=5%>vincells</indent>
+-<indent=5%>quagsir3</indent>
+
+<align="center"><b>Music</b></align>
+-<indent=5%>Tenopiana <alpha=#88>Opening<alpha=#FF></indent>
+-<indent=5%>lifinale <alpha=#88>Title Screen, Superb<alpha=#FF></indent>
+-<indent=5%>vincells <alpha=#88>Jollibrary<alpha=#FF></indent>
+-<indent=5%>cloud2763 <alpha=#88>2024 Credits<alpha=#FF></indent>
+
+<align="center"><b>2025 Remixes</b></align>
+-<indent=5%>Minecraft Steve from Mine Craft</indent>
+
+<align="center"><b>2024 Remixes</b></align>
+- Day 1 - All I Want For Christmas Is You: 
+<b>grayfruit</b>
+- Day 2 - Cool Edge (Day): 
+<b>ObeliskWithLimbs</b>
+- Day 3 - Carol of the Bells (Quag Cover): 
+<b>quagsir3</b>
+- Day 4 - Press Garden (Act 2): 
+<b>RedShell9</b>
+- Day 5 - vs. SAYU (Christmas Edition): 
+<b>The Ringmaster</b>
+- Day 6 - Battle: Powdered Peaks: 
+<b>GalRosalina</b>
+- Day 7 - Cold Man (Arranged): 
+<b>A</b>
+- Day 8 - Celsius Troubles: 
+<b>Bjooon</b>
+- Day 9 - Snow!: 
+<b>Fancy</b>
+- Day 10 - Counting on Christmas: 
+<b>Beam</b>
+- Day 11 - Christmas EveL: 
+<b>Yatterman300</b>
+- Day 12 - Snowbelle City: 
+<b>SecondSaga</b>
+- Day 13 - On Finn Ice: 
+<b>RaffyTaffy14</b>
+- Day 14 - Snow Song Show: 
+<b>lotusdom</b>
+- Day 15 - Ring Rink (Tee Lopes Remix): 
+<b>vincells</b>
+- Day 16 - The Next Best Thing: 
+<b>MiiK</b>
+- Day 17 - Love! Snow! Really Magic: 
+<b>Krıspy™</b>
+- Day 18 - Have Yourself a Merry Little Christmas: 
+<b>lifinale</b>
+- Day 19 - Freezeezy Peak: 
+<b>HazelTheRhythmic</b>
+- Day 20 - It's a Bargain Bin Christmas: 
+<b>Evil Octo</b>
+- Day 21 - Aurora Borealis: 
+<b>Jaydakin</b>
+- Day 22 - But I'm Not Interested In Christmas At All: 
+<b>Tenopiana</b>
+- Day 23 - Winter Watch 2: 
+<b>TheRookieCookie</b>
+- Day 24 - FNAF Christmas: 
+<b>The Culinator</b>
+- Bonus - The Very First Christmas: 
+<b>vincells</b>
+- Bonus - Quiz Miser: 
+<b>Bjooon</b>
+- Bonus - Snow Halation?????: 
+<b>Bjooon</b>
+- Bonus - Chiron Beta Prime: 
+<b>Todd O.</b>
+- Bonus - Let It Go: 
+<b>A</b>
+- Bonus - Holiday Studio: 
+<b>Bjooon</b>
+- Bonus - SnowMix♪: 
+<b>Krıspy™ / A</b>
+- Bonus - Icebrain Invasion: 
+<b>Bjooon</b>
+- Bonus - How Many Sleeps 'til Christmas?: 
+<b>Krıspy™</b>
+- Bonus - Christmas Hard: 
+<b>GalRosalina</b>
+- Bonus - The Snowdin Express: 
+<b>RedShell9</b>
+- Bonus - Rudolph's Got Covid: 
+<b>Bjooon / quagsir3</b>
+
+<align="center"><b>Special Thanks</b></align>
+-<indent=5%>Santa Claus</indent>
+-<indent=5%>...and <sprite="You" name="You">!</indent>
+
+Happy Holidays from all of us!
+
+https://www.youtube.com/@HSAdventCalendar
+
+
+
+
+<size=125%><align="center"><b><font="Kurokane" material="Kurokane Outline">Original Bobby Build Credits</b></align>
+
+
