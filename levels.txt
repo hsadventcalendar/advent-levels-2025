@@ -3,3 +3,4 @@ Day2 YoureAMeanOneMrGrinch.riq
 Day3 RosalinasIceWorld.riq
 Day4 Ai.riq
 Day5 Skating.riq
+Day6 CruelKing.riq
