@@ -25,7 +25,7 @@
 Opening: 
 <b>Tenopiana</b>
 Title Screen:
-<b>lifinale</b>
+<b>am3l1a</b>
 Jollibrary:
 <b>vincells</b>
 Try Again:
@@ -33,7 +33,7 @@ Try Again:
 OK:
 <b>cloud2763</b>
 Superb:
-<b>lifinale, vincells</b>
+<b>am3l1a, vincells</b>
 2024 Credits:
 <b>cloud2763</b>
 2025 Credits:
@@ -41,6 +41,7 @@ Superb:
 
 <align="center"><b>2025 Remixes</b></align>
 -<indent=5%>A</indent>
+-<indent=5%>am3l1a</indent>
 -<indent=5%>Beam</indent>
 -<indent=5%>BearandaBee (Borris)</indent>
 -<indent=5%>Bjooon</indent>
@@ -52,7 +53,6 @@ Superb:
 -<indent=5%>ITUI</indent>
 -<indent=5%>Krıspy™</indent>
 -<indent=5%>LDS</indent>
--<indent=5%>lifinale</indent>
 -<indent=5%>NSPG</indent>
 -<indent=5%>ObeliskWithLimbs</indent>
 -<indent=5%>OZ</indent>
@@ -104,7 +104,7 @@ Superb:
 - Day 17 - Love! Snow! Really Magic: 
 <b>Krıspy™</b>
 - Day 18 - Have Yourself a Merry Little Christmas: 
-<b>lifinale</b>
+<b>am3l1a</b>
 - Day 19 - Freezeezy Peak: 
 <b>HazelTheRhythmic</b>
 - Day 20 - It's a Bargain Bin Christmas: 
