@@ -19,3 +19,4 @@ Day18 EpisodeX.riq
 Day19 AngryBirdsPeaceSong.riq
 Day20 MagicalSnowDay.riq
 Day21 AnotherWinter.riq
+Day22 雪降り、メリクリ.riq
