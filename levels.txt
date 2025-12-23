@@ -20,3 +20,5 @@ Day19 AngryBirdsPeaceSong.riq
 Day20 MagicalSnowDay.riq
 Day21 AnotherWinter.riq
 Day22 雪降り、メリクリ.riq
+Day23 SleighRide.riq
+Day23 SleighRide - PRACTICE.riq
