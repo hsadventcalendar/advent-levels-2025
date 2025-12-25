@@ -40,33 +40,54 @@ Superb:
 <b>cloud2763</b>
 
 <align="center"><b>2025 Remixes</b></align>
--<indent=5%>A</indent>
--<indent=5%>am3l1a</indent>
--<indent=5%>Beam</indent>
--<indent=5%>BearandaBee (Borris)</indent>
--<indent=5%>Bjooon</indent>
--<indent=5%>D</indent>
--<indent=5%>ditto</indent>
--<indent=5%>GalRosalina</indent>
--<indent=5%>grayfruit</indent>
--<indent=5%>HazelTheRhythmic</indent>
--<indent=5%>ITUI</indent>
--<indent=5%>Krıspy™</indent>
--<indent=5%>LDS</indent>
--<indent=5%>NSPG</indent>
--<indent=5%>ObeliskWithLimbs</indent>
--<indent=5%>OZ</indent>
--<indent=5%>quagsir3</indent>
--<indent=5%>RaffyTaffy14</indent>
--<indent=5%>RedShell9</indent>
--<indent=5%>Star</indent>
--<indent=5%>Tenopiana</indent>
--<indent=5%>The Culinator</indent>
--<indent=5%>The Ringmaster</indent>
--<indent=5%>TheGreatAsexualWaffleCaptain</indent>
--<indent=5%>Todd O.</indent>
--<indent=5%>vincells</indent>
--<indent=5%>Zeo</indent>
+- Day 1 - <sprite="Jolly" name="day1"> Christmas Pain in Christmas Town <sprite="Jolly" name="day1">: 
+<b>ITUI</b>
+- Day 2 - <sprite="Jolly" name="day2"> You're a Mean One, Mr. Grinch <sprite="Jolly" name="day2">: 
+<b>grayfruit</b>
+- Day 3 - <sprite="Jolly" name="day3"> Rosalina's Ice World <sprite="Jolly" name="day3">: 
+<b>GalRosalina</b>
+- Day 4 - <sprite="Jolly" name="day4"> アイ/ AI <sprite="Jolly" name="day4">: 
+<b>Krıspy™</b>
+- Day 5 - <sprite="Jolly" name="day5"> Skating <sprite="Jolly" name="day5">: 
+<b>NSPG</b>
+- Day 6 - <sprite="Jolly" name="day6"> Cruel King <sprite="Jolly" name="day6">: 
+<b>The Ringmaster</b>
+- Day 7 - <sprite="Jolly" name="day7"> HAILING HAWKISH <sprite="Jolly" name="day7">: 
+<b>Bjooon</b>
+- Day 8 - <sprite="Jolly" name="day8"> 88☆彡 <sprite="Jolly" name="day8">: 
+<b>LDS</b>
+- Day 9 - <sprite="Jolly" name="day9"> Lo-fi Beats For Patients To Chill To <sprite="Jolly" name="day9">: 
+<b>RedShell9</b>
+- Day 10 - <sprite="Jolly" name="day10"> Snow Cult Scuffle <sprite="Jolly" name="day10">: 
+<b>ditto</b>
+- Day 11 - <sprite="Jolly" name="day11"> Underneath the Mambo Tree (Santa No. 5) <sprite="Jolly" name="day11">: 
+<b>TheGreatAsexualWaffleCaptain</b>
+- Day 12 - <sprite="Jolly" name="day12"> Gingerbread House <sprite="Jolly" name="day12">: 
+<b>Star</b>
+- Day 13 - <sprite="Jolly" name="day13"> Curl <sprite="Jolly" name="day13">: 
+<b>OZ/Todd O.</b>
+- Day 14 - <sprite="Jolly" name="day14"> Hey Santa <sprite="Jolly" name="day14">: 
+<b>BearandaBee (Borris)</b>
+- Day 15 - <sprite="Jolly" name="day15"> Freezing Paradise <sprite="Jolly" name="day15">: 
+<b>vincells</b>
+- Day 16 - <sprite="Jolly" name="day16"> Zombotany (Holiday Mashup) <sprite="Jolly" name="day16">: 
+<b>A</b>
+- Day 17 - <sprite="Jolly" name="day17"> Snowman <sprite="Jolly" name="day17">: 
+<b>Zeo</b>
+- Day 18 - <sprite="Jolly" name="day18"> Episode X <sprite="Jolly" name="day18">: 
+<b>The Culinator</b>
+- Day 19 - <sprite="Jolly" name="day19"> Angry Birds Peace Song (2011) <sprite="Jolly" name="day19">: 
+<b>RaffyTaffy14</b>
+- Day 20 - <sprite="Jolly" name="day20"> Magical Snow Day <sprite="Jolly" name="day20">: 
+<b>Beam/D</b>
+- Day 21 - <sprite="Jolly" name="day21"> Another Winter <sprite="Jolly" name="day21">: 
+<b>ObeliskWithLimbs</b>
+- Day 22 - <sprite="Jolly" name="day22"> Snowfall, Merry Christmas (雪降り、メリクリ) <sprite="Jolly" name="day22">: 
+<b>am3l1a</b>
+- Day 23 - <sprite="Jolly" name="day23"> Sleigh Ride (Quag Cover) <sprite="Jolly" name="day23">: 
+<b>quagsir3</b>
+- Day 24 - <sprite="Jolly" name="day24"> Yuki Onna (雪女) <sprite="Jolly" name="day24">:
+<b>HazelTheRhythmic/Tenopiana</b>
 
 <align="center"><b>2024 Remixes</b></align>
 - Day 1 - All I Want For Christmas Is You: 
